@@ -1,0 +1,11 @@
+A11201911743
+
+Cube -> Component = Transform, Cube (Mesh Filter), Mesh Renderer, Box Collider, Default-Material
+
+Sphere -> Component = Transform, Sphere (Mesh Filter), Mesh Renderer, Sphere Collider, Default-Material
+
+Capsule -> Component = Transform, Capsule (Mesh Filter), Mesh Renderer, Capsule Collider, Default-Material
+
+Quad -> Component = Transform, Quad (Mesh Filter), Mesh Renderer, Mesh Collider, Default-Material
+
+Plane -> Component = Transform, Plane (Mesh Filter), Mesh Renderer, Mesh Collider, Default-Material
